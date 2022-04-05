@@ -1,0 +1,16 @@
+{
+   "class_names" : [ "4", "3", "2", "1", "0" ],
+   "feature_names" : [ "sr", "rr", "t", "lm", "bo", "rem", "sh", "hr" ],
+   "features" : {
+      "bo" : {},
+      "hr" : {},
+      "lm" : {},
+      "rem" : {},
+      "rr" : {},
+      "sh" : {},
+      "sr" : {},
+      "t" : {}
+   },
+   "label_col" : "sl",
+   "model_type" : "boosted_tree_classifier"
+}
